@@ -27,8 +27,6 @@ const Technologies = () => {
             <br />
             <br />
             <p>Node js</p>
-            
-            
           </div>
         </div>
       </div>
