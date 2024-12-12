@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Layout from './layout/Layout';  // Ruta correcta al Layout
+import Layout from './layout/Layout';  
 import SectionContact from './pages/SectionContact';
 import Technologies from './pages/Technologies';
 import About from './pages/About';
