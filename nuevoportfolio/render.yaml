@@ -1,8 +1,0 @@
-name: nuevoportfolio
-services:
-  - type: web
-    name: nuevoportfolio
-    env: node
-    build:
-      command: npm run build
-    public: ./dist
